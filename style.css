@@ -1,0 +1,24 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(243, 223, 142);
+}
+.head{
+    margin-top: 1%;
+    text-align: center;
+    color: rgb(245, 12, 109);
+    font-family: cursive;
+    background-image: url("img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.bt1{
+    margin-top: 3%;
+}
+#table{
+    visibility: hidden;
+    text-align: center;
+    background-color: rgba(102, 81, 92, 0.603);
+    border: 1px solid black ;
+    color: black;
+}

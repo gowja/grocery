@@ -1,0 +1,84 @@
+{
+    "grocery":[
+    {
+        "slno":"01",
+        "name":"milk",
+        "quantity":"500",
+        "unit":"millilitre",
+        "department":"diary",
+        "notes":"Milma"
+    },
+    {
+        "slno":"02",
+        "name":"oil",
+        "quantity":"1",
+        "unit":"litre",
+        "department":"grocery",
+        "notes":"kera"
+    },
+    {
+        "slno":"03",
+        "name":"sugar",
+        "quantity":"500",
+        "unit":"gram",
+        "department":"grocery",
+        "notes":"white sugar"
+    },
+    {
+        "slno":"04",
+        "name":"Tea powder",
+        "quantity":"250",
+        "unit":"gram",
+        "department":"grocery",
+        "notes":"kannan devan"
+    },
+    {
+        "slno":"05",
+        "name":"soap powder",
+        "quantity":"200",
+        "unit":"gram",
+        "department":"cleaners",
+        "notes":"sunlight"
+    },
+    {
+        "slno":"06",
+        "name":"Biscut",
+        "quantity":"200",
+        "unit":"gram",
+        "department":"snakcs",
+        "notes":"marielight"
+    },
+    {
+        "slno":"07",
+        "name":"toothpaste",
+        "quantity":"100",
+        "unit":"gram",
+        "department":"deodrants",
+        "notes":"sunlight"
+    },
+    {
+        "slno":"08",
+        "name":"rice",
+        "quantity":"1",
+        "unit":"kilograms",
+        "department":"grocery",
+        "notes":"ponni"
+    },
+    {
+        "slno":"09",
+        "name":"onion",
+        "quantity":"1",
+        "unit":"kilograms",
+        "department":"vegetables",
+        "notes":"green vegetables"
+    },
+    {
+        "slno":"10",
+        "name":"chilly powder",
+        "quantity":"200",
+        "unit":"gram",
+        "department":"curry powders",
+        "notes":"nirapara"
+    }
+    ]
+}
